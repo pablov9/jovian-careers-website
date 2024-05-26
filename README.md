@@ -1,2 +1,2 @@
 # jovian-careers-website
-A careers website for Jovian
+Online course to develop a website using Flask
